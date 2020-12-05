@@ -12,7 +12,7 @@ upbit-go 는 [upbit api](https://docs.upbit.com/)를 이용한 라이브러리 �
 ### 설치
 
 ```bash
-go get -u github.com/sangx2/upbit-go
+go get -u github.com/aerialcombat/upbit
 ```
 
 ## Getting started
@@ -27,7 +27,7 @@ package main
 import (
 	"fmt"
 
-	upbit "github.com/sangx2/upbit-go"
+	upbit "github.com/aerialcombat/upbit"
 )
 
 func main() {
