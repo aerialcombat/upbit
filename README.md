@@ -57,7 +57,7 @@ package main
 import (
 	"fmt"
 
-	upbit "github.com/sangx2/upbit-go"
+	upbit "github.com/aerialcombat/upbit-go"
 )
 
 func main() {

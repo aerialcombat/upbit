@@ -8,12 +8,12 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/sangx2/upbit/model"
-	"github.com/sangx2/upbit/model/exchange"
-	"github.com/sangx2/upbit/model/exchange/account"
-	"github.com/sangx2/upbit/model/exchange/deposit"
-	"github.com/sangx2/upbit/model/exchange/order"
-	"github.com/sangx2/upbit/model/exchange/withdraw"
+	"github.com/aerialcombat/upbit/model"
+	"github.com/aerialcombat/upbit/model/exchange"
+	"github.com/aerialcombat/upbit/model/exchange/account"
+	"github.com/aerialcombat/upbit/model/exchange/deposit"
+	"github.com/aerialcombat/upbit/model/exchange/order"
+	"github.com/aerialcombat/upbit/model/exchange/withdraw"
 )
 
 // GetAccounts 전체 계좌 조회

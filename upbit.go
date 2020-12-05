@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/sangx2/upbit/model"
+	"github.com/aerialcombat/upbit/model"
 
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/google/uuid"

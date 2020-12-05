@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sangx2/upbit-go/model/exchange"
+	"github.com/aerialcombat/upbit/model/exchange"
 )
 
 func TestExchange(t *testing.T) {
