@@ -206,9 +206,9 @@ func (u *Upbit) PurchaseOrder(market, volume, price, orderType, identifier strin
 	}
 
 	values := url.Values{
-		"market":     []string{market},
-		"side":       []string{exchange.ORDER_SIDE_BID},
-		"volume":     []string{volume},
+		"market": []string{market},
+		"side":   []string{exchange.ORDER_SIDE_BID},
+		//"volume":     []string{volume},
 		"price":      []string{price},
 		"ord_type":   []string{orderType},
 		"identifier": []string{identifier},
